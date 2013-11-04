@@ -1,0 +1,5 @@
+songs:
+  susy:
+  - url: "https://github.com/ericam/susy"
+  jquery:
+  - url: "https://github.com/jquery/jquery"
