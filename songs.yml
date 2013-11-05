@@ -1,4 +1,10 @@
 susy:
+  name: "susy"
+  description: "A responsive grid framework for Compass." 
+  website: "http://susy.oddbird.net/"
   url: "https://github.com/ericam/susy"
 jquery:
+  name: "jquery"
+  description: "jQuery JavaScript Library" 
+  website: "http://jquery.com/"
   url: "https://github.com/jquery/jquery"
