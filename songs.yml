@@ -1,6 +1,6 @@
 susy:
   name: "susy"
-  description: "A responsive grid framework for Compass." 
+  description: "A responsive grid framework for Compass" 
   website: "http://susy.oddbird.net/"
   url: "https://github.com/ericam/susy"
 jquery:
@@ -8,3 +8,18 @@ jquery:
   description: "jQuery JavaScript Library" 
   website: "http://jquery.com/"
   url: "https://github.com/jquery/jquery"
+bourbon:
+  name: "bourbon"
+  description: "A simple and lightweight mixin library for Sass"
+  website: "http://bourbon.io/"
+  url: "https://github.com/thoughtbot/bourbon"
+neat:
+  name: "neat"
+  description: "A semantic, fluid grid framework on top of Sass and Bourbon"
+  website: "http://neat.bourbon.io/"
+  url: "https://github.com/thoughtbot/neat"
+bowie-test:
+  name: "bowie-test"
+  description: "A repository for Bowie testing"
+  website: ""
+  url: "https://github.com/axyz/bowie-test"
